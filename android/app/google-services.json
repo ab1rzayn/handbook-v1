@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232497941561",
+    "project_id": "handbook-3e308",
+    "storage_bucket": "handbook-3e308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232497941561:android:f4ea86c15f57706870d1e8",
+        "android_client_info": {
+          "package_name": "com.example.handbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz79n9_z-M8fyxR21yDz9Pmo4s72yYRmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
